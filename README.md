@@ -23,11 +23,6 @@ The computer randomly selects a number between 1 and 100, and the user has to gu
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 💡 How It Works
 
 - The app generates a random number.
